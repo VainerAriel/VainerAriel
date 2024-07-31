@@ -2,7 +2,7 @@ Hi there! I am a student entering first year of undergrad with a strong passion 
 
 You can reach me by the mail arielvainer.main@gmail.com
 
-For all my game jam projects go to arielvainer.itch.io
+For all my game jam projects go to my [itch.io page](arielvainer.itch.io)
 
 <!---
 VainerAriel/VainerAriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

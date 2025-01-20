@@ -6,7 +6,7 @@ You can reach me by the email arielvainer.main@gmail.com, or by my school email 
 
 For all my game-jam projects go to my [itch.io page](https://arielvainer.itch.io/)
 
-For my Fiverr profile go to [here](https://www.fiverr.com/arielvainer/)
+For my Fiverr profile go [here](https://www.fiverr.com/arielvainer/)
 
 <!---
 VainerAriel/VainerAriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

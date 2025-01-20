@@ -3,7 +3,9 @@ Hi there! I am a student in my first year of undergrad with a strong passion for
 You can reach me by the email arielvainer.main@gmail.com, or by my school email avainer@uwaterloo.ca.
 
 [LinkedIn Profile](https://www.linkedin.com/in/arielvainer/)
+
 For all my game-jam projects go to my [itch.io page](https://arielvainer.itch.io/)
+
 For my Fiverr profile go to [here](https://www.fiverr.com/arielvainer/)
 
 <!---

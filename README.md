@@ -1,12 +1,16 @@
-Hi there! I am a student in my first year of undergrad with a strong passion for Computer Science and Math. I have experience coding in Python, JavaScript, Processing (Java), and C, and am always looking for opportunities to expand my knowledge and skills. In my free time, I enjoy exploring new programming concepts and working on personal projects to further develop my skills. On my GitHub profile, you'll find a collection of my programming projects, ranging from simple scripts to more complex applications. I am always open to feedback and suggestions, so don't hesitate to reach out if you have any thoughts or ideas. Thank you for visiting my profile!
+Hi there! I'm a Computer Science student at the University of Waterloo with a passion for data science, game development, and math. I'm experienced with Flask, ASP.NET, and React, and proficient in Python, C, C#, JavaScript, and TypeScript. I'm also familiar with tools like Auth0 and MongoDB, and always eager to learn and take on new challenges.
 
-You can reach me by the email arielvainer.main@gmail.com, or by my school email avainer@uwaterloo.ca.
+In my free time, I explore new technologies and build personal projects to sharpen my skills. My GitHub features everything from simple scripts to full applications. I'm always open to feedback, so feel free to reach out with thoughts or ideas!
 
-[LinkedIn Profile](https://www.linkedin.com/in/arielvainer/)
+Contact:  
+[arielvainer.main@gmail.com](mailto:arielvainer.main@gmail.com)  
+[avainer@uwaterloo.ca](mailto:avainer@uwaterloo.ca)  
 
-For all my game-jam projects go to my [itch.io page](https://arielvainer.itch.io/)
-
-For my Fiverr profile go [here](https://www.fiverr.com/arielvainer/)
+Links:  
+[LinkedIn](https://www.linkedin.com/in/arielvainer/)  
+[Devpost](https://devpost.com/VainerAriel)  
+[itch.io (Game Jams)](https://arielvainer.itch.io/)  
+[Fiverr](https://www.fiverr.com/arielvainer/)  
 
 <!---
 VainerAriel/VainerAriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
